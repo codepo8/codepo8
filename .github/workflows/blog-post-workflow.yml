@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar / blog - post - workflow@master
               with: 
                 max_post_count: "4",
-                feed_list: "https://dev.to/feed/codepo8, https://medium.com/feed/@codepo8"
+                feed_list: "https://christianheilmann.com/feed/, https://medium.com/feed/@codepo8, https://dev.to/feed/codepo8"
