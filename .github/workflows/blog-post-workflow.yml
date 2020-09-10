@@ -7,8 +7,8 @@ jobs:
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
-            - uses: actions / checkout@v2
-            - uses: gautamkrishnar / blog - post - workflow@master
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "3"
                 feed_list: "https://christianheilmann.com/feed/, https://medium.com/feed/@codepo8, https://dev.to/feed/codepo8"
