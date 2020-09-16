@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [https://christianheilmann.com](https://christianheilmann.com)
 
-- 💬 Ask me about **Developer Tools, Developer Relations, JavaScript, Accessibility**
+- 💬 Ask me about **Developer Tools, Developer Relations, AI, JavaScript, Accessibility**
 
 - 📫 How to reach me **chris@christianheilmann.com**
 
