@@ -16,7 +16,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Geocities and Neopets didn’t teach us HTML and CSS](https://medium.com/@chrisheilmann/geocities-and-neopets-didnt-teach-us-html-and-css-dadcdcc01709?source=rss-2902b181e2e9------2)
-- [Geocities and Neopets didn’t teach us HTML and CSS](https://christianheilmann.com/2021/01/21/geocities-and-neopets-didnt-teach-us-html-and-css/)
+- [HTML and CSS still isn’t about painting with code](https://christianheilmann.com/2021/01/21/teaching-html-and-css/)
 - [Seven ways to test for accessibility of your web site with browser Developer Tools](https://dev.to/codepo8/seven-ways-to-test-for-accessibility-of-your-web-site-with-browser-developer-tools-4lpg)
 <!-- BLOG-POST-LIST:END -->
 
