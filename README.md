@@ -15,8 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [You can’t automate accessibility testing](https://chrisheilmann.medium.com/you-cant-automate-accessibility-testing-9f278ab6b7a?source=rss-2902b181e2e9------2)
-- [You can’t automate accessibility testing](https://christianheilmann.com/2021/05/17/you-cant-automate-accessibility-testing/)
+- [Automated accessibility testing gets you on the way, but doesn’t find all the problems](https://chrisheilmann.medium.com/you-cant-automate-accessibility-testing-9f278ab6b7a?source=rss-2902b181e2e9------2)
+- [Automated accessibility testing gets you on the way, but doesn’t find all the problems](https://christianheilmann.com/2021/05/17/you-cant-automate-accessibility-testing/)
 - [I have a new course on Skillshare:  Product Management: Tools for Improving Product Accessibility](https://christianheilmann.com/2021/05/11/i-have-a-new-course-on-skillshare-product-management-tools-for-improving-product-accessibility/)
 <!-- BLOG-POST-LIST:END -->
 
