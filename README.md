@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [New class on Skillshare:  Product Management – Tools and Tips to Optimise Your Workflow as a Developer](https://christianheilmann.com/2021/06/09/new-class-on-skillshare-product-management-tools-and-tips-to-optimise-your-workflow-as-a-developer/)
+- [New class on Skillshare: Tools and Tips to Optimise Your Workflow as a Developer](https://christianheilmann.com/2021/06/09/new-class-on-skillshare-product-management-tools-and-tips-to-optimise-your-workflow-as-a-developer/)
 - [Accessibility issues you can discover and fix using the browser Developer Tools](https://christianheilmann.com/2021/06/08/accessibility-issues-you-can-discover-and-fix-using-the-browser-developer-tools/)
 - [The (new) Developer Advocacy Handbook is live!](https://christianheilmann.com/2021/05/31/the-new-developer-advocacy-handbook-is-live/)
 <!-- BLOG-POST-LIST:END -->
