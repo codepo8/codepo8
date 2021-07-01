@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The unseen benefits of accessibility](https://chrisheilmann.medium.com/the-unseen-benefits-of-accessibility-ef259202b638?source=rss-2902b181e2e9------2)
+- [The unseen benefits of accessibility](https://uxdesign.cc/the-unseen-benefits-of-accessibility-ef259202b638?source=rss-2902b181e2e9------2)
 - [The unseen benefits of accessibility](https://christianheilmann.com/2021/06/30/the-unseen-benefits-of-accessibility/)
 - [Making remote work – Podcast](https://christianheilmann.com/2021/06/21/making-remote-work-podcast/)
 <!-- BLOG-POST-LIST:END -->
