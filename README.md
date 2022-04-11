@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Heilmann</h1>
-<h3 align="center">Principle Program Manager on Developer Tools</h3>
+<h3 align="center">Principal Program Manager on Developer Tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codepo8" alt="codepo8" /> </p>
 
