@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick tip: embedding YouTube Videos in GitHub pages](https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/)
+- [Quick tip: embedding YouTube Videos in GitHub pages](https://dev.to/codepo8/quick-tip-embedding-youtube-videos-in-github-pages-4e36)
 - [New Developer Advocacy Handbook chapter – How to create short and concise technical videos](https://christianheilmann.com/2022/09/13/new-developer-advocacy-handbook-chapter-how-to-create-short-and-concise-technical-videos/)
-- [How to create short and concise technical videos](https://dev.to/codepo8/how-to-create-short-and-concise-technical-videos-plc)
-- [Automatic issue fixing and filtering in Visual Studio Code](https://christianheilmann.com/2022/09/09/automatic-issue-fixing-and-filtering-in-visual-studio-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
