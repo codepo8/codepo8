@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating 1M installs of Edge DevTools for VS Code](https://chrisheilmann.medium.com/celebrating-1m-installs-of-edge-devtools-for-vs-code-ba54864df724?source=rss-2902b181e2e9------2)
 - [Celebrating 1M installs of Edge DevTools for VS Code](https://christianheilmann.com/2022/09/15/celebrating-1m-installs-of-edge-devtools-for-vs-code/)
 - [Celebrating 1M installs of Edge DevTools for VS Code](https://dev.to/codepo8/celebrating-1m-installs-of-edge-devtools-for-vs-code-45o9)
-- [Quick tip: embedding YouTube Videos in GitHub pages](https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
