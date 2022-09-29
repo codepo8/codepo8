@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dear Console,…](https://dev.to/codepo8/dear-console-23oj)
+- [Dear Console,…](https://christianheilmann.com/2022/09/29/dear-console/)
 - [Developers as an audience is a hard sell – part one “developers are influencers”](https://christianheilmann.com/2022/09/26/developers-as-an-audience-is-a-hard-sell-part-one-developers-are-influencers/)
-- [Quick reminder: HTML5 required and pattern are not a security feature](https://christianheilmann.com/2022/09/22/quick-reminder-html5-required-and-pattern-are-not-a-security-feature/)
-- [HTML5 required and pattern are not a security feature](https://dev.to/codepo8/html5-required-and-pattern-are-not-a-security-feature-ld8)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
