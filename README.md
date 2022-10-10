@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Unless you’re in the mafia, your company isn’t your family](https://christianheilmann.com/2022/10/06/unless-youre-in-the-mafia-your-company-isnt-your-family/)
 - [AI Code completion is like cruise control - and that&#39;s great news for bigger teams](https://dev.to/codepo8/ai-code-completion-is-like-cruise-control-and-thats-great-news-for-bigger-teams-29mn)
-- [AI Code completion is like cruise control – and that’s great news for bigger teams](https://christianheilmann.com/2022/10/05/ai-code-completion-is-like-cruise-control-and-thats-great-news-for-bigger-teams/)
+- [Dear Console,…](https://dev.to/codepo8/dear-console-23oj)
+- [HTML5 required and pattern are not a security feature](https://dev.to/codepo8/html5-required-and-pattern-are-not-a-security-feature-ld8)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
