@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Reminder: JSON.stringify can create Multi-line, formatted and filtered strings from JSON](https://christianheilmann.com/2022/10/28/reminder-json-stringify-can-create-multi-line-formatted-and-filtered-strings-from-json/)
 - [JSON.stringify can create Multi-line, formatted and filtered strings from JSON](https://dev.to/codepo8/jsonstringify-can-create-multi-line-formatted-and-filtered-strings-from-json-4g9b)
 - [The Developer Advocacy Handbook is now available as an eBook on Leanpub and Amazon Kindle](https://christianheilmann.com/2022/10/27/the-developer-advocacy-handbook-is-now-available-as-an-ebook-on-leanpub-and-amazon-kindle/)
-- [Unless you’re in the mafia, your company isn’t your family](https://christianheilmann.com/2022/10/06/unless-youre-in-the-mafia-your-company-isnt-your-family/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
