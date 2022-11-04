@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Removing the camera overlay icon on images in Microsoft Edge](https://christianheilmann.com/2022/11/04/removing-the-camera-overlay-icon-on-images-in-microsoft-edge/)
+- [Removing the camera overlay icon in Microsoft Edge](https://dev.to/codepo8/removing-the-camera-overlay-icon-in-microsoft-edge-5hf)
 - [Reminder: JSON.stringify can create Multi-line, formatted and filtered strings from JSON](https://christianheilmann.com/2022/10/28/reminder-json-stringify-can-create-multi-line-formatted-and-filtered-strings-from-json/)
-- [JSON.stringify can create Multi-line, formatted and filtered strings from JSON](https://dev.to/codepo8/jsonstringify-can-create-multi-line-formatted-and-filtered-strings-from-json-4g9b)
-- [The Developer Advocacy Handbook is now available as an eBook on Leanpub and Amazon Kindle](https://christianheilmann.com/2022/10/27/the-developer-advocacy-handbook-is-now-available-as-an-ebook-on-leanpub-and-amazon-kindle/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
