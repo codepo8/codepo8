@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Positioning notification messages with accessibility in mind](https://dev.to/codepo8/positioning-notification-messages-with-accessibility-in-mind-nlf)
+- [Positioning notification messages with accessibility in mind](https://christianheilmann.com/2022/11/25/positioning-notification-messages-with-accessibility-in-mind/)
 - [Using Live Server with Developer Tools in Visual Studio Code](https://christianheilmann.com/2022/11/22/using-live-server-with-developer-tools-in-visual-studio-code/)
-- [Links, 2, 3, 4: Accessibility](https://christianheilmann.com/2022/11/08/links-2-3-4-accessibility/)
-- [Removing the camera overlay icon on images in Microsoft Edge](https://christianheilmann.com/2022/11/04/removing-the-camera-overlay-icon-on-images-in-microsoft-edge/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
