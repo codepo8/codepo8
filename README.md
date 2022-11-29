@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop waiting for GitHub pages to build using overrides](https://dev.to/codepo8/stop-waiting-for-github-pages-to-build-using-overrides-4f2k)
+- [Stop waiting for GitHub pages to build using overrides](https://christianheilmann.com/2022/11/29/stop-waiting-for-github-pages-to-build-using-overrides/)
 - [Positioning notification messages with accessibility in mind](https://dev.to/codepo8/positioning-notification-messages-with-accessibility-in-mind-nlf)
-- [Positioning notification messages with accessibility in mind](https://christianheilmann.com/2022/11/25/positioning-notification-messages-with-accessibility-in-mind/)
-- [Using Live Server with Developer Tools in Visual Studio Code](https://christianheilmann.com/2022/11/22/using-live-server-with-developer-tools-in-visual-studio-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
