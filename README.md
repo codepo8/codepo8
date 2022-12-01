@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Opening Node developer tools just got easier](https://dev.to/codepo8/opening-node-developer-tools-just-got-easier-58ae)
+- [Opening Node developer tools just got easier](https://christianheilmann.com/2022/12/01/opening-node-developer-tools-just-got-easier/)
 - [Quick VS Code tip: skip selections when using Ctrl|Cmd + D](https://dev.to/codepo8/quick-vs-code-tip-skip-selections-when-using-ctrlcmd-d-36me)
-- [Stop waiting for GitHub pages to build using overrides](https://dev.to/codepo8/stop-waiting-for-github-pages-to-build-using-overrides-4f2k)
-- [Stop waiting for GitHub pages to build using overrides](https://christianheilmann.com/2022/11/29/stop-waiting-for-github-pages-to-build-using-overrides/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
