@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Barrierefreiheit mit Computern 1985 – ein faszinierender Artikel](https://christianheilmann.com/2022/12/16/barrierefreiheit-mit-computern-1985-ein-faszinierender-artikel/)
 - [Code brushes for GitHub Copilot](https://dev.to/codepo8/code-brushes-for-github-copilot-4hij)
 - [Code brushes for GitHub Copilot](https://christianheilmann.com/2022/12/13/code-brushes-for-github-copilot/)
-- [Pioneers in Open Source Interview: Browsers, Bootcamps &amp; the Business of Open Source](https://christianheilmann.com/2022/12/09/pioneers-in-open-source-interview-browsers-bootcamps-the-business-of-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
