@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in DevTools 108 video and blooper reel](https://christianheilmann.com/2022/12/16/whats-new-in-devtools-108-video-and-blooper-reel/)
 - [Barrierefreiheit mit Computern 1985 – ein faszinierender Artikel](https://christianheilmann.com/2022/12/16/barrierefreiheit-mit-computern-1985-ein-faszinierender-artikel/)
 - [Code brushes for GitHub Copilot](https://dev.to/codepo8/code-brushes-for-github-copilot-4hij)
-- [Code brushes for GitHub Copilot](https://christianheilmann.com/2022/12/13/code-brushes-for-github-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
