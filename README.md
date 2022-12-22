@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The &lpar;very&rpar; short story of “Ideasoft”](https://christianheilmann.com/2022/12/22/the-very-short-story-of-ideasoft/)
 - [Microdosing burnout — on working remote and in a different time zone](https://chrisheilmann.medium.com/microdosing-burnout-on-working-remote-and-in-a-different-time-zone-ae0b4d8dd5bb?source=rss-2902b181e2e9------2)
 - [Microdosing burnout – on working remote and in a different time zone](https://christianheilmann.com/2022/12/19/microdosing-burnout-on-working-remote-and-in-a-different-time-zone/)
-- [What’s new in DevTools 108 video and blooper reel](https://christianheilmann.com/2022/12/16/whats-new-in-devtools-108-video-and-blooper-reel/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
