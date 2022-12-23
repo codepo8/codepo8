@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT will not replace programmers, but Search Engines should be worried](https://chrisheilmann.medium.com/chatgpt-will-not-replace-programmers-but-search-engines-should-be-worried-645f653ac3b0?source=rss-2902b181e2e9------2)
+- [ChatGPT will not replace programmers, but Search Engines should be worried](https://christianheilmann.com/2022/12/23/chatgpt-will-not-replace-programmers-but-search-engines-should-be-worried/)
 - [The &lpar;very&rpar; short story of “Ideasoft”](https://christianheilmann.com/2022/12/22/the-very-short-story-of-ideasoft/)
-- [Microdosing burnout — on working remote and in a different time zone](https://chrisheilmann.medium.com/microdosing-burnout-on-working-remote-and-in-a-different-time-zone-ae0b4d8dd5bb?source=rss-2902b181e2e9------2)
-- [Microdosing burnout – on working remote and in a different time zone](https://christianheilmann.com/2022/12/19/microdosing-burnout-on-working-remote-and-in-a-different-time-zone/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
