@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting all the video thumbnails from a YouTube video](https://dev.to/codepo8/getting-all-the-video-thumbnails-from-a-youtube-video-3l8o)
+- [Getting all the video thumbnails from a YouTube video](https://christianheilmann.com/2023/01/11/getting-all-the-video-thumbnails-from-a-youtube-video/)
 - [ChatGPT will not replace programmers, but Search Engines should be worried](https://chrisheilmann.medium.com/chatgpt-will-not-replace-programmers-but-search-engines-should-be-worried-645f653ac3b0?source=rss-2902b181e2e9------2)
-- [ChatGPT will not replace programmers, but Search Engines should be worried](https://christianheilmann.com/2022/12/23/chatgpt-will-not-replace-programmers-but-search-engines-should-be-worried/)
-- [The &lpar;very&rpar; short story of “Ideasoft”](https://christianheilmann.com/2022/12/22/the-very-short-story-of-ideasoft/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
