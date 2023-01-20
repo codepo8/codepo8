@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Web resilience is about users - not a shortcut for developers](https://dev.to/codepo8/web-resilience-is-about-users-not-a-shortcut-for-developers-4e1f)
 - [Web resilience is about users – not a shortcut for developers](https://christianheilmann.com/2023/01/18/web-resilience-is-about-users-not-a-shortcut-for-developers/)
-- [Getting all the video thumbnails from a YouTube video](https://christianheilmann.com/2023/01/11/getting-all-the-video-thumbnails-from-a-youtube-video/)
-- [ChatGPT will not replace programmers, but Search Engines should be worried](https://chrisheilmann.medium.com/chatgpt-will-not-replace-programmers-but-search-engines-should-be-worried-645f653ac3b0?source=rss-2902b181e2e9------2)
+- [Getting all the video thumbnails from a YouTube video](https://dev.to/codepo8/getting-all-the-video-thumbnails-from-a-youtube-video-3l8o)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
