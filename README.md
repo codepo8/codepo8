@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Web resilience is about users - not a shortcut for developers](https://dev.to/codepo8/web-resilience-is-about-users-not-a-shortcut-for-developers-4e1f)
-- [Web resilience is about users – not a shortcut for developers](https://christianheilmann.com/2023/01/18/web-resilience-is-about-users-not-a-shortcut-for-developers/)
-- [Getting all the video thumbnails from a YouTube video](https://dev.to/codepo8/getting-all-the-video-thumbnails-from-a-youtube-video-3l8o)
+- [Things to do and not to do during a wave of tech layoffs](https://dev.to/codepo8/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs-26bd)
+- [Things to do and not to do during a wave of tech layoffs](https://chrisheilmann.medium.com/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs-e0c1cc1768c0?source=rss-2902b181e2e9------2)
+- [Things to do and not to do during a wave of tech layoffs](https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
