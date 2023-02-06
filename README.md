@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MacOS can remove backgrounds from images](https://dev.to/codepo8/macos-can-remove-backgrounds-from-images-9co)
+- [MacOS can remove image backgrounds #shorts](https://christianheilmann.com/2023/02/06/macos-can-remove-image-backgrounds-shorts/)
 - [Releasing code in large corporations is slow — and there is a good reason for it](https://chrisheilmann.medium.com/releasing-code-in-large-corporations-is-slow-and-there-is-a-good-reason-for-it-9ceca74e3fbf?source=rss-2902b181e2e9------2)
-- [Releasing code in large corporations is slow - and there is a good reason for it](https://dev.to/codepo8/releasing-code-in-large-corporations-is-slow-and-there-is-a-good-reason-for-it-4e86)
-- [Releasing code in large corporations is slow – and there is a good reason for it](https://christianheilmann.com/2023/01/31/releasing-code-in-large-corporations-is-slow-and-there-is-a-good-reason-for-it/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
