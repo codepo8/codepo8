@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [An easy way to copy + paste from the browser Console #shorts](https://dev.to/codepo8/an-easy-way-to-copy-paste-from-the-browser-console-shorts-cdc)
+- [An easy way to copy + paste from the browser Console #shorts](https://christianheilmann.com/2023/02/06/an-easy-way-to-copy-paste-from-the-browser-console-shorts/)
 - [MacOS can remove backgrounds from images](https://dev.to/codepo8/macos-can-remove-backgrounds-from-images-9co)
-- [MacOS can remove image backgrounds #shorts](https://christianheilmann.com/2023/02/06/macos-can-remove-image-backgrounds-shorts/)
-- [Releasing code in large corporations is slow — and there is a good reason for it](https://chrisheilmann.medium.com/releasing-code-in-large-corporations-is-slow-and-there-is-a-good-reason-for-it-9ceca74e3fbf?source=rss-2902b181e2e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
