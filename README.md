@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mansplaining in the run down shopping mall – hybrid search engines and chatGPT solutions will be an interesting challenge](https://christianheilmann.com/2023/02/09/mansplaining-in-the-run-down-shopping-mall-hybrid-search-engines-and-gpt-solutions-will-be-an-interesting-challenge/)
 - [An easy way to copy + paste from the browser Console #shorts](https://dev.to/codepo8/an-easy-way-to-copy-paste-from-the-browser-console-shorts-cdc)
 - [An easy way to copy + paste from the browser Console #shorts](https://christianheilmann.com/2023/02/06/an-easy-way-to-copy-paste-from-the-browser-console-shorts/)
-- [MacOS can remove backgrounds from images](https://dev.to/codepo8/macos-can-remove-backgrounds-from-images-9co)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
