@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub CoPilot now also generates tests for functions](https://dev.to/codepo8/github-copilot-now-also-generates-tests-for-functions-3mf4)
 - [So, you want to safely authenticate with 2FA? App stores are still not the solution – “why the web is dead” revisiTED](https://christianheilmann.com/2023/02/20/so-you-want-to-safely-authenticate-with-2fa-app-stores-are-still-not-the-solution-why-the-web-is-dead-revisited/)
 - [Mansplaining in the run down shopping mall – hybrid search engines and chatGPT solutions will be an interesting challenge](https://christianheilmann.com/2023/02/09/mansplaining-in-the-run-down-shopping-mall-hybrid-search-engines-and-gpt-solutions-will-be-an-interesting-challenge/)
-- [An easy way to copy + paste from the browser Console #shorts](https://dev.to/codepo8/an-easy-way-to-copy-paste-from-the-browser-console-shorts-cdc)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
