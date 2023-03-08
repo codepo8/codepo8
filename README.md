@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Migraining to a new server](https://christianheilmann.com/2023/03/08/migraining-to-a-new-server/)
 - [Continuous growth is cancer](https://dev.to/codepo8/continuous-growth-is-cancer-2f6j)
 - [Continuous growth is cancer](https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/)
-- [Automatically generating tests for JS/TS functions in VS Code with GitHub Copilot](https://christianheilmann.com/2023/03/01/automatically-generating-tests-for-js-ts-functions-in-vs-code-with-github-copilot/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
