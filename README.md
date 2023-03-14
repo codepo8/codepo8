@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Linkshare - a GitHub Pages template to store links and share them on social media](https://dev.to/codepo8/linkshare-a-github-pages-template-to-store-links-and-share-them-on-social-media-26c7)
+- [Linkshare – a GitHub Pages template to store links and share them on social media](https://christianheilmann.com/2023/03/14/linkshare-a-github-pages-template-to-store-links-and-share-them-on-social-media/)
 - [Migraining to a new server](https://christianheilmann.com/2023/03/08/migraining-to-a-new-server/)
-- [Continuous growth is cancer](https://dev.to/codepo8/continuous-growth-is-cancer-2f6j)
-- [Continuous growth is cancer](https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
