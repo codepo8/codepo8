@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [8 years on Edge](https://christianheilmann.com/2023/03/15/8-years-on-edge/)
 - [Linkshare - a GitHub Pages template to store links and share them on social media](https://dev.to/codepo8/linkshare-a-github-pages-template-to-store-links-and-share-them-on-social-media-26c7)
-- [Continuous growth is cancer](https://dev.to/codepo8/continuous-growth-is-cancer-2f6j)
-- [GitHub CoPilot now also generates tests for functions](https://dev.to/codepo8/github-copilot-now-also-generates-tests-for-functions-3mf4)
+- [Linkshare – a GitHub Pages template to store links and share them on social media](https://christianheilmann.com/2023/03/14/linkshare-a-github-pages-template-to-store-links-and-share-them-on-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
