@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Next speaking gig: Modern Web Development, Thu., 30 Mar, 5pm in Berlin’s Microsoft Reactor and streaming.](https://christianheilmann.com/2023/03/17/next-speaking-gig-modern-web-development-thu-30-mar-5pm-in-berlins-microsoft-reactor-and-streaming/)
 - [ChatGPT is a game changer, but it could become a problem…](https://christianheilmann.com/2023/03/16/chatgpt-is-a-game-changer-but-it-could-become-a-problem/)
 - [Forcing people back into the office is a massive step backwards](https://christianheilmann.com/2023/03/16/forcing-people-back-into-the-office-is-a-massive-step-backwards/)
-- [8 years on Edge](https://christianheilmann.com/2023/03/15/8-years-on-edge/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
