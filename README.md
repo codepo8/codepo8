@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [WYSIWYGPT](https://christianheilmann.com/2023/03/24/wysiwygpt/)
-- [Looking for a new opportunity](https://christianheilmann.com/2023/03/21/looking-for-a-new-opportunity/)
-- [Next speaking gig: Modern Web Development, Thu., 30 Mar, 5pm in Berlin’s Microsoft Reactor and streaming.](https://christianheilmann.com/2023/03/17/next-speaking-gig-modern-web-development-thu-30-mar-5pm-in-berlins-microsoft-reactor-and-streaming/)
+- [This is the time to be unpredictable and human](https://chrisheilmann.medium.com/this-is-the-time-to-be-unpredictable-and-human-4ff311ce464c?source=rss-2902b181e2e9------2)
+- [This is the time to be unpredictable and human](https://dev.to/codepo8/this-is-the-time-to-be-unpredictable-and-human-2l47)
+- [This is the time to be unpredictable and human](https://christianheilmann.com/2023/03/28/this-is-the-time-to-be-unpredictable-and-human/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
