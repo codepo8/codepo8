@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot for CLI makes Terminal scripting and Git as easy as asking a question](https://dev.to/codepo8/github-copilot-for-cli-makes-terminal-scripting-and-git-as-easy-as-asking-a-question-3m81)
+- [GitHub Copilot for the Command Line is amazing!](https://christianheilmann.com/2023/03/29/github-copilot-for-the-command-line-is-amazing/)
 - [This is the time to be unpredictable and human](https://chrisheilmann.medium.com/this-is-the-time-to-be-unpredictable-and-human-4ff311ce464c?source=rss-2902b181e2e9------2)
-- [This is the time to be unpredictable and human](https://dev.to/codepo8/this-is-the-time-to-be-unpredictable-and-human-2l47)
-- [This is the time to be unpredictable and human](https://christianheilmann.com/2023/03/28/this-is-the-time-to-be-unpredictable-and-human/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
