@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Senior Developers in an AI-Driven World](https://christianheilmann.com/2023/04/02/the-future-of-senior-developers-in-an-ai-driven-world/)
 - [Modern Web Development: Centering DIVs in new exciting wrong ways with AI!](https://dev.to/codepo8/modern-web-development-centering-divs-in-new-exciting-wrong-ways-with-ai-laa)
 - [Modern Web Development: Centering DIVs in new exciting wrong ways with AI!](https://christianheilmann.com/2023/03/31/modern-web-development-centering-divs-in-new-exciting-wrong-ways-with-ai/)
-- [GitHub Copilot for CLI makes Terminal scripting and Git as easy as asking a question](https://dev.to/codepo8/github-copilot-for-cli-makes-terminal-scripting-and-git-as-easy-as-asking-a-question-3m81)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
