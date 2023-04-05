@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot for Docs – putting the “fun” into RTFM](https://dev.to/codepo8/github-copilot-for-docs-putting-the-fun-into-rtfm-3n4h)
 - [GitHub Copilot for Docs – putting the “fun” into RTFM](https://christianheilmann.com/2023/04/05/github-copilot-for-docs-putting-the-fun-into-rtfm/)
 - [Review: Video Tap - automatically convert YouTube videos to blog posts](https://dev.to/codepo8/review-video-tap-automatically-convert-youtube-videos-to-blog-posts-15oe)
-- [Review: Video Tap – automatically convert YouTube videos to blog posts](https://christianheilmann.com/2023/04/03/review-video-tap-automatically-convert-youtube-videos-to-blog-posts/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
