@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading our CSS habits: aspect-ratio](https://christianheilmann.com/2023/04/20/upgrading-our-css-habits-aspect-ratio/)
+- [Upgrading our CSS habits: aspect-ratio](https://dev.to/codepo8/upgrading-our-css-habits-aspect-ratio-flb)
 - [Interview questions: What practices in software teams lead to better quality products?](https://christianheilmann.com/2023/04/14/interview-questions-what-practices-in-software-teams-lead-to-better-quality-products/)
-- [Resetting Twitter’s interests list using browser developer tools](https://christianheilmann.com/2023/04/09/resetting-twitters-interests-list-using-browser-developer-tools/)
-- [GitHub Copilot for Docs – putting the “fun” into RTFM](https://dev.to/codepo8/github-copilot-for-docs-putting-the-fun-into-rtfm-3n4h)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
