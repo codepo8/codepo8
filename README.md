@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Interview questions: Outline your thoughts on open source software development, why is it something a company should do?](https://christianheilmann.com/2023/04/27/interview-questions-outline-your-thoughts-on-open-source-software-development-why-is-it-something-a-company-should-do/)
 - [Upgrading our CSS habits: aspect-ratio](https://christianheilmann.com/2023/04/20/upgrading-our-css-habits-aspect-ratio/)
 - [Upgrading our CSS habits: aspect-ratio](https://dev.to/codepo8/upgrading-our-css-habits-aspect-ratio-flb)
-- [Interview questions: What practices in software teams lead to better quality products?](https://christianheilmann.com/2023/04/14/interview-questions-what-practices-in-software-teams-lead-to-better-quality-products/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
