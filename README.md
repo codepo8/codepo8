@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crown dwarf witness – Recording a new course for LinkedIn Learning in Graz](https://christianheilmann.com/2023/05/02/crown-dwarf-witness-recording-a-new-course-for-linkedin-learning-in-graz/)
 - [MS Edge now allows you to simulate dark, light, high contrast mode, blurred vision and colour deficiencies in Device Emulation](https://dev.to/codepo8/ms-edge-now-allows-you-to-simulate-dark-light-high-contrast-mode-blurred-vision-and-colour-deficiencies-in-device-emulation-47ii)
 - [Microsoft Edge now allows you to simulate dark, light, high contrast mode, blurred vision and colour deficiencies right from the Device Emulation toolbar](https://christianheilmann.com/2023/04/28/microsoft-edge-now-allows-you-to-simulate-dark-light-high-contrast-mode-blurred-vision-and-colour-deficiencies-right-from-the-device-emulation-toolbar/)
-- [Interview questions: Outline your thoughts on open source software development, why is it something a company should do?](https://christianheilmann.com/2023/04/27/interview-questions-outline-your-thoughts-on-open-source-software-development-why-is-it-something-a-company-should-do/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
