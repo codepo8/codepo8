@@ -14,8 +14,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Here is where developers perish…](https://dev.to/codepo8/here-is-where-developers-perish-p55)
-- [Here is where developers perish…](https://christianheilmann.com/2023/05/05/here-is-where-developers-perish/)
-- [Crown dwarf witness – Recording a new course for LinkedIn Learning in Graz](https://christianheilmann.com/2023/05/02/crown-dwarf-witness-recording-a-new-course-for-linkedin-learning-in-graz/)
+- [MS Edge now allows you to simulate dark, light, high contrast mode, blurred vision and colour deficiencies in Device Emulation](https://dev.to/codepo8/ms-edge-now-allows-you-to-simulate-dark-light-high-contrast-mode-blurred-vision-and-colour-deficiencies-in-device-emulation-47ii)
+- [Upgrading our CSS habits: aspect-ratio](https://dev.to/codepo8/upgrading-our-css-habits-aspect-ratio-flb)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
