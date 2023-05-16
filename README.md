@@ -14,8 +14,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Developer Tools That Shouldn&#39;t Be Secrets - Video](https://dev.to/codepo8/developer-tools-that-shouldnt-be-secrets-video-2hog)
-- [The ongoing defence of frontend as a full-time job](https://dev.to/codepo8/the-ongoing-defence-of-frontend-as-a-full-time-job-3dp2)
-- [Here is where developers perish…](https://dev.to/codepo8/here-is-where-developers-perish-p55)
+- [Developer Tools That Shouldn’t Be Secrets • Christian Heilmann • GOTO 2022](https://christianheilmann.com/2023/05/11/developer-tools-that-shouldnt-be-secrets-christian-heilmann-goto-2022/)
+- [An open proposal to OpenAI, Bard, Amazon, et al…: GPTeachers](https://christianheilmann.com/2023/05/09/an-open-proposal-to-openai-bard-amazon-et-al-gpteachers/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
