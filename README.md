@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I just did a test to apply as a front end developer – and things aren’t going well](https://dev.to/codepo8/i-just-did-a-test-to-apply-as-a-front-end-developer-and-things-arent-going-well-1mkn)
+- [I just did a test to apply as a front end developer – and things aren’t going well](https://christianheilmann.com/2023/05/16/i-just-did-a-test-to-apply-as-a-front-end-developer-and-things-arent-going-well/)
 - [Developer Tools That Shouldn&#39;t Be Secrets - Video](https://dev.to/codepo8/developer-tools-that-shouldnt-be-secrets-video-2hog)
-- [Developer Tools That Shouldn’t Be Secrets • Christian Heilmann • GOTO 2022](https://christianheilmann.com/2023/05/11/developer-tools-that-shouldnt-be-secrets-christian-heilmann-goto-2022/)
-- [An open proposal to OpenAI, Bard, Amazon, et al…: GPTeachers](https://christianheilmann.com/2023/05/09/an-open-proposal-to-openai-bard-amazon-et-al-gpteachers/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
