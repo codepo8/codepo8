@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PrivateGPT - Running ChatGPT offline on local documents](https://dev.to/codepo8/privategpt-running-chatgpt-offline-on-local-documents-5b17)
 - [I just did a test to apply as a front end developer – and things aren’t going well](https://dev.to/codepo8/i-just-did-a-test-to-apply-as-a-front-end-developer-and-things-arent-going-well-1mkn)
 - [I just did a test to apply as a front end developer – and things aren’t going well](https://christianheilmann.com/2023/05/16/i-just-did-a-test-to-apply-as-a-front-end-developer-and-things-arent-going-well/)
-- [Developer Tools That Shouldn&#39;t Be Secrets - Video](https://dev.to/codepo8/developer-tools-that-shouldnt-be-secrets-video-2hog)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
