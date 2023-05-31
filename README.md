@@ -14,8 +14,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Nobody thrives on rejection - here are reasons I didn&#39;t take job offers](https://dev.to/codepo8/nobody-thrives-on-rejection-here-are-reasons-i-didnt-take-job-offers-30l8)
-- [PrivateGPT - Running &quot;ChatGPT&quot; offline on local documents](https://dev.to/codepo8/privategpt-running-chatgpt-offline-on-local-documents-5b17)
-- [I just did a test to apply as a front end developer – and things aren’t going well](https://dev.to/codepo8/i-just-did-a-test-to-apply-as-a-front-end-developer-and-things-arent-going-well-1mkn)
+- [Nobody thrives on rejection – here are reasons I didn’t take job offers](https://christianheilmann.com/2023/05/29/nobody-thrives-on-rejection-here-are-reasons-i-didnt-take-job-offers/)
+- [PrivateGPT – Running “ChatGPT” offline on local documents](https://christianheilmann.com/2023/05/27/privategpt-running-chatgpt-offline-on-local-documents/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
