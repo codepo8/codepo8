@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The many ways to select the n-th character from a string.](https://christianheilmann.com/2023/06/02/the-many-ways-to-select-the-n-th-character-from-a-string/)
 - [The many ways to select the n-th character from a string.](https://dev.to/codepo8/the-many-ways-to-select-the-n-th-character-from-a-string-5aen)
 - [Nobody thrives on rejection - here are reasons I didn&#39;t take job offers](https://dev.to/codepo8/nobody-thrives-on-rejection-here-are-reasons-i-didnt-take-job-offers-30l8)
+- [PrivateGPT - Running &quot;ChatGPT&quot; offline on local documents](https://dev.to/codepo8/privategpt-running-chatgpt-offline-on-local-documents-5b17)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
