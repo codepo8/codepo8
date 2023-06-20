@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying developer environments with AI and in-context automation](https://dev.to/codepo8/simplifying-developer-environments-with-ai-and-in-context-automation-44of)
 - [New array methods in JavaScript bring immutability](https://christianheilmann.com/2023/06/06/new-array-methods-in-javascript-bring-immutability/)
 - [New array methods in JavaScript bring immutability](https://dev.to/codepo8/new-array-methods-in-javascript-bring-immutability-1nij)
-- [The many ways to select the n-th character from a string.](https://christianheilmann.com/2023/06/02/the-many-ways-to-select-the-n-th-character-from-a-string/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
