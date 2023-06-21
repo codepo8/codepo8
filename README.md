@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning the screw with AI – ways for developer advocates to debunk the “AI can replace developers” myth](https://christianheilmann.com/2023/06/21/turning-the-screw-with-ai-ways-for-developer-advocates-to-debunk-the-ai-can-replace-developers-myth/)
 - [Simplifying developer environments with AI and in-context automation](https://dev.to/codepo8/simplifying-developer-environments-with-ai-and-in-context-automation-44of)
 - [New array methods in JavaScript bring immutability](https://christianheilmann.com/2023/06/06/new-array-methods-in-javascript-bring-immutability/)
-- [New array methods in JavaScript bring immutability](https://dev.to/codepo8/new-array-methods-in-javascript-bring-immutability-1nij)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
