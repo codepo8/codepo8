@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codepo8" alt="codepo8" /> </p>
 
-- 🔭 I’m currently working on [Microsoft Edge Developer Tools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium)
-
+- 🔭 I’m currently not working
+- 
 - 📝 I regulary write articles on [https://christianheilmann.com](https://christianheilmann.com)
 
 - 💬 Ask me about **Developer Tools, Developer Relations, AI, JavaScript, Accessibility**
