@@ -14,8 +14,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Is it too late to fix the problem of AI clutter on the web?](https://dev.to/codepo8/is-it-too-late-to-fix-the-problem-of-ai-clutter-on-the-web-5dja)
-- [Is it too late to fix the problem of AI clutter on the web?](https://christianheilmann.com/2023/06/28/is-it-too-late-to-fix-the-problem-of-ai-clutter-on-the-web/)
-- [Interview with Goto Unscripted about the present and future of developer tools](https://christianheilmann.com/2023/06/22/interview-with-goto-unscripted-about-the-present-and-future-of-developer-tools/)
+- [Turning the screw with AI — ways for developer advocates to debunk the “AI can replace developers”…](https://chrisheilmann.medium.com/turning-the-screw-with-ai-ways-for-developer-advocates-to-debunk-the-ai-can-replace-developers-941cd55f6a9a?source=rss-2902b181e2e9------2)
+- [Turning the screw with AI - ways for developer advocates to debunk the &quot;AI can replace developers&quot; myth](https://dev.to/codepo8/turning-the-screw-with-ai-ways-for-developer-advocates-to-debunk-the-ai-can-replace-developers-myth-50p2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
