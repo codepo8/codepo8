@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s next for Chris? I’ve got a new job!](https://christianheilmann.com/2023/07/04/whats-next-for-chris-ive-got-a-new-job/)
 - [Reading tweets without being logged in](https://christianheilmann.com/2023/06/30/reading-tweets-without-being-logged-in/)
 - [Reading Tweets without being logged in](https://dev.to/codepo8/reading-tweets-without-being-logged-in-1oke)
-- [Is it too late to fix the problem of AI clutter on the web?](https://dev.to/codepo8/is-it-too-late-to-fix-the-problem-of-ai-clutter-on-the-web-5dja)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
