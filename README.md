@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Reading Tweets without being logged in](https://dev.to/codepo8/reading-tweets-without-being-logged-in-1oke)
-- [Is it too late to fix the problem of AI clutter on the web?](https://dev.to/codepo8/is-it-too-late-to-fix-the-problem-of-ai-clutter-on-the-web-5dja)
-- [Turning the screw with AI - ways for developer advocates to debunk the &quot;AI can replace developers&quot; myth](https://dev.to/codepo8/turning-the-screw-with-ai-ways-for-developer-advocates-to-debunk-the-ai-can-replace-developers-myth-50p2)
+- [Getting AI to bullshit for you](https://christianheilmann.com/2023/07/04/getting-ai-to-bullshit-for-you/)
+- [What’s next for Chris? I’ve got a new job!](https://christianheilmann.com/2023/07/04/whats-next-for-chris-ive-got-a-new-job/)
+- [Reading tweets without being logged in](https://christianheilmann.com/2023/06/30/reading-tweets-without-being-logged-in/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
