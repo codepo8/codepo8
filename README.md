@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Please, WordPress, keep the alternative text I entered](https://christianheilmann.com/2023/07/11/please-wordpress-keep-the-alternative-text-i-entered/)
 - [Getting AI to bullshit for you](https://christianheilmann.com/2023/07/04/getting-ai-to-bullshit-for-you/)
 - [What’s next for Chris? I’ve got a new job!](https://christianheilmann.com/2023/07/04/whats-next-for-chris-ive-got-a-new-job/)
-- [Reading tweets without being logged in](https://christianheilmann.com/2023/06/30/reading-tweets-without-being-logged-in/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
