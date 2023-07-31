@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Five things about public speaking](https://christianheilmann.com/2023/07/31/five-things-about-public-speaking/)
+- [Five things about public speaking](https://dev.to/codepo8/five-things-about-public-speaking-563f)
 - [Browser-Entwicklerwerkzeuge für Nicht-Entwickler:innen – neuer Kurs auf LinkedIn Learning](https://christianheilmann.com/2023/07/19/browser-entwicklerwerkzeuge-fur-nicht-entwicklerinnen-neuer-kurs-auf-linkedin-learning/)
-- [What if the Nazis had the internet and social media?](https://christianheilmann.com/2023/07/19/what-if-the-nazis-had-the-internet-and-social-media/)
-- [Please, WordPress, keep the alternative text I entered](https://christianheilmann.com/2023/07/11/please-wordpress-keep-the-alternative-text-i-entered/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
