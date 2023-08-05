@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Assistive technology shouldn’t be a mystery box](https://christianheilmann.com/2023/08/05/assistive-technology-shouldnt-be-a-mystery-box/)
 - [GitHub Copilot is a great example for in-context AI chat](https://christianheilmann.com/2023/08/02/github-copilot-is-a-great-example-for-in-context-ai-chat/)
 - [In-context AI chat with GitHub Copilot](https://dev.to/codepo8/in-context-ai-chat-with-github-copilot-3lp8)
-- [Five things about public speaking](https://christianheilmann.com/2023/07/31/five-things-about-public-speaking/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
