@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding a &quot;share to mastodon&quot; link to any web site](https://dev.to/codepo8/adding-a-share-to-mastodon-link-to-any-web-site-485m)
 - [What’s my job in my new role as Director of DevRel at WeAreDevelopers?](https://dev.to/codepo8/whats-my-job-in-my-new-role-as-director-of-devrel-at-wearedevelopers-51f9)
 - [What’s my job in my new role as Director of DevRel at WeAreDevelopers?](https://christianheilmann.com/2023/08/16/whats-my-job-in-my-new-role-as-director-of-devrel-at-wearedevelopers/)
-- [The Verge’s new way to display news item links is a terrible idea](https://christianheilmann.com/2023/08/14/the-verges-new-way-to-display-news-item-links-is-a-terrible-idea/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
