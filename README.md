@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Add GitHub repository info, GitHub pages links and latest commits to any page using github-include](https://dev.to/codepo8/add-github-repository-info-github-pages-links-and-latest-commits-to-any-page-using-github-include-15ol)
+- [Adding GitHub repository info, pages links  and latest commits to any page using github-include](https://christianheilmann.com/2023/08/22/adding-github-repository-info-pages-links-and-latest-commits-to-any-page-using-github-include/)
 - [Adding a “share to mastodon” link to any web site – and here](https://christianheilmann.com/2023/08/18/adding-a-share-to-mastodon-link-to-any-web-site-and-here/)
-- [Adding a &quot;share to mastodon&quot; link to any web site](https://dev.to/codepo8/adding-a-share-to-mastodon-link-to-any-web-site-485m)
-- [What’s my job in my new role as Director of DevRel at WeAreDevelopers?](https://dev.to/codepo8/whats-my-job-in-my-new-role-as-director-of-devrel-at-wearedevelopers-51f9)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
