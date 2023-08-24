@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick tip: Getting all links from any web site into a spreadsheet using browser developer tools](https://dev.to/codepo8/quick-tip-getting-all-links-from-any-web-site-into-a-spreadsheet-using-browser-developer-tools-3dmf)
+- [Quick tip: Getting all links from any web site into a spreadsheet using browser developer tools](https://christianheilmann.com/2023/08/24/quick-tip-getting-all-links-from-any-web-site-into-a-spreadsheet-using-browser-developer-tools/)
 - [Add GitHub repository info, GitHub pages links and latest commits to any page using github-include](https://dev.to/codepo8/add-github-repository-info-github-pages-links-and-latest-commits-to-any-page-using-github-include-15ol)
-- [Adding GitHub repository info, pages links  and latest commits to any page using github-include](https://christianheilmann.com/2023/08/22/adding-github-repository-info-pages-links-and-latest-commits-to-any-page-using-github-include/)
-- [Adding a “share to mastodon” link to any web site – and here](https://christianheilmann.com/2023/08/18/adding-a-share-to-mastodon-link-to-any-web-site-and-here/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
