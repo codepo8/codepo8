@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding sound wave overlays to videos and pictures using FFMPEG](https://christianheilmann.com/2023/08/31/adding-sound-wave-overlays-to-videos-and-pictures-using-ffmpeg/)
+- [Adding sound wave overlays to videos and pictures using FFMPEG](https://dev.to/codepo8/adding-sound-wave-overlays-to-videos-and-pictures-using-ffmpeg-2mg2)
 - [New feature in VideoTap: Clips — create short excerpt videos from bigger ones by highlighting text…](https://chrisheilmann.medium.com/new-feature-in-videotap-clips-create-short-excerpt-videos-from-bigger-ones-by-highlighting-text-a67ff575b35e?source=rss-2902b181e2e9------2)
-- [New feature in VideoTap: Clips – create short excerpt videos from bigger ones by highlighting text in the transcript](https://christianheilmann.com/2023/08/26/new-feature-in-videotap-clips-create-short-excerpt-videos-from-bigger-ones-by-highlighting-text-in-the-transcript/)
-- [Hemingway is now Hemingw-AI! My favourite writing tool just got an AI upgrade and it’s great.](https://christianheilmann.com/2023/08/25/hemingway-is-now-hemingw-ai-my-favourite-writing-tool-just-got-an-ai-upgrade-and-its-great/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
