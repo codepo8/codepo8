@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Podcast: AI solutions need good UX with Chris Heilmann](https://christianheilmann.com/2023/09/13/podcast-ai-solutions-need-good-ux-with-chris-heilmann/)
 - [Adding sound wave overlays to videos and pictures using FFMPEG](https://christianheilmann.com/2023/08/31/adding-sound-wave-overlays-to-videos-and-pictures-using-ffmpeg/)
 - [Adding sound wave overlays to videos and pictures using FFMPEG](https://dev.to/codepo8/adding-sound-wave-overlays-to-videos-and-pictures-using-ffmpeg-2mg2)
-- [New feature in VideoTap: Clips — create short excerpt videos from bigger ones by highlighting text…](https://chrisheilmann.medium.com/new-feature-in-videotap-clips-create-short-excerpt-videos-from-bigger-ones-by-highlighting-text-a67ff575b35e?source=rss-2902b181e2e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
