@@ -13,9 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Podcast recording - great AI solutions need good and unique UX](https://dev.to/codepo8/podcast-recording-great-ai-solutions-need-good-and-unique-ux-5f5)
 - [Podcast: AI solutions need good UX with Chris Heilmann](https://christianheilmann.com/2023/09/13/podcast-ai-solutions-need-good-ux-with-chris-heilmann/)
 - [Adding sound wave overlays to videos and pictures using FFMPEG](https://christianheilmann.com/2023/08/31/adding-sound-wave-overlays-to-videos-and-pictures-using-ffmpeg/)
-- [Adding sound wave overlays to videos and pictures using FFMPEG](https://dev.to/codepo8/adding-sound-wave-overlays-to-videos-and-pictures-using-ffmpeg-2mg2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
