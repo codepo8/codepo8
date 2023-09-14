@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chris Heilmann</h1>
-<h3 align="center">Principal Program Manager on Developer Tools</h3>
+<h3 align="center">Developer Tools creator, Developer Relations person</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codepo8" alt="codepo8" /> </p>
 
-- 🔭 I’m currently not working
-- 
+- VP of DevRel at [WeAreDevelopers](https://wearedevelopers.com)
 - 📝 I regulary write articles on [https://christianheilmann.com](https://christianheilmann.com)
-
 - 💬 Ask me about **Developer Tools, Developer Relations, AI, JavaScript, Accessibility**
 
 - 📫 How to reach me **chris@christianheilmann.com**
