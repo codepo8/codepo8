@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The 10 tools I install on every new Mac I get](https://christianheilmann.com/2023/09/14/the-10-tools-i-install-on-every-new-mac-i-get/)
 - [The 10 tools I install on every new Mac I get](https://dev.to/codepo8/the-10-tools-i-install-on-every-new-mac-i-get-2l59)
 - [Podcast recording - great AI solutions need good and unique UX](https://dev.to/codepo8/podcast-recording-great-ai-solutions-need-good-and-unique-ux-5f5)
-- [Adding sound wave overlays to videos and pictures using FFMPEG](https://dev.to/codepo8/adding-sound-wave-overlays-to-videos-and-pictures-using-ffmpeg-2mg2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
