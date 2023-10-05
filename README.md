@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Taking over the Dev Digest Newsletter](https://dev.to/codepo8/taking-over-the-dev-digest-newsletter-57jn)
 - [I was a guest on the inaugural DevRelShow and chatted about what DevRel is about, my new job at WeAreDevelopers and showed some cool tools](https://christianheilmann.com/2023/09/22/i-was-a-guest-on-the-inaugural-devrelshow-and-chatted-about-what-devrel-is-about-my-new-job-at-wearedevelopers-and-showed-some-cool-tools/)
 - [The 10 tools I install on every new Mac I get](https://christianheilmann.com/2023/09/14/the-10-tools-i-install-on-every-new-mac-i-get/)
-- [The 10 tools I install on every new Mac I get](https://dev.to/codepo8/the-10-tools-i-install-on-every-new-mac-i-get-2l59)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
