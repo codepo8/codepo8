@@ -12,8 +12,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Lossless Cut is my new favourite tool to cut parts from a video without any hassle](https://dev.to/codepo8/lossless-cut-is-my-new-favourite-tool-to-cut-parts-from-a-video-without-any-hassle-28lh)
+- [Lossless Cut is my new favourite tool to cut parts from a video without any hassle](https://christianheilmann.com/2023/10/07/lossless-cut-is-my-new-favourite-tool-to-cut-parts-from-a-video-without-any-hassle/)
 - [Taking over the Dev Digest Newsletter](https://dev.to/codepo8/taking-over-the-dev-digest-newsletter-57jn)
-- [The 10 tools I install on every new Mac I get](https://dev.to/codepo8/the-10-tools-i-install-on-every-new-mac-i-get-2l59)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
