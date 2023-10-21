@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [My company is hiring: who wants to work with me in Developer Relations?](https://christianheilmann.com/2023/10/20/my-company-is-hiring-who-wants-to-work-with-me-in-developer-relations/)
-- [Falling Behind In Style – explosive and continuous growth is bad for tech](https://christianheilmann.com/2023/10/17/falling-behind-in-style-explosive-and-continuous-growth-is-bad-for-tech/)
 - [Lossless Cut is my new favourite tool to cut parts from a video without any hassle](https://dev.to/codepo8/lossless-cut-is-my-new-favourite-tool-to-cut-parts-from-a-video-without-any-hassle-28lh)
+- [Taking over the Dev Digest Newsletter](https://dev.to/codepo8/taking-over-the-dev-digest-newsletter-57jn)
+- [The 10 tools I install on every new Mac I get](https://dev.to/codepo8/the-10-tools-i-install-on-every-new-mac-i-get-2l59)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
