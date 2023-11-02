@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Neuer Kurs auf LinkedIn Learning: Grundlagen der Programmierung – Barrierefreie Software](https://christianheilmann.com/2023/11/02/neuer-kurs-auf-linkedin-learning-grundlagen-der-programmierung-barrierefreie-software/)
 - [Want to have a crack at this Code 100 Puzzle?](https://dev.to/codepo8/want-to-have-a-crack-at-this-code-100-puzzle-1hep)
 - [Today was a great day for accessibility!](https://christianheilmann.com/2023/10/25/today-was-a-great-day-for-accessibility/)
-- [My company is hiring: who wants to work with me in Developer Relations?](https://christianheilmann.com/2023/10/20/my-company-is-hiring-who-wants-to-work-with-me-in-developer-relations/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
