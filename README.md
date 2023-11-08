@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pangram validator in one line](https://christianheilmann.com/2023/11/06/pangram-validator-in-one-line/)
 - [Pangram validator in one line](https://dev.to/codepo8/pangram-validator-in-one-line-59e9)
-- [Want to have a crack at this Code 100 Puzzle?](https://dev.to/codepo8/want-to-have-a-crack-at-this-code-100-puzzle-1hep)
-- [Lossless Cut is my new favourite tool to cut parts from a video without any hassle](https://dev.to/codepo8/lossless-cut-is-my-new-favourite-tool-to-cut-parts-from-a-video-without-any-hassle-28lh)
+- [Neuer Kurs auf LinkedIn Learning: Grundlagen der Programmierung – Barrierefreie Software](https://christianheilmann.com/2023/11/02/neuer-kurs-auf-linkedin-learning-grundlagen-der-programmierung-barrierefreie-software/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
