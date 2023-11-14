@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cracking a “Developer Tools Killer” script…](https://christianheilmann.com/2023/11/14/cracking-a-developer-tools-killer-script/)
 - [Pangram validator in one line](https://christianheilmann.com/2023/11/06/pangram-validator-in-one-line/)
 - [Pangram validator in one line](https://dev.to/codepo8/pangram-validator-in-one-line-59e9)
-- [Neuer Kurs auf LinkedIn Learning: Grundlagen der Programmierung – Barrierefreie Software](https://christianheilmann.com/2023/11/02/neuer-kurs-auf-linkedin-learning-grundlagen-der-programmierung-barrierefreie-software/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
