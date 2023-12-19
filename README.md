@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A santa themed CODE100 puzzle – Hitting the chimney](https://christianheilmann.com/2023/12/19/a-santa-themed-code100-puzzle-hitting-the-chimney/)
 - [Cracking a &quot;Developer Tools Killer&quot; script…](https://dev.to/codepo8/cracking-a-developer-tools-killer-script-2lpl)
 - [Cracking a “Developer Tools Killer” script…](https://christianheilmann.com/2023/11/14/cracking-a-developer-tools-killer-script/)
-- [Pangram validator in one line](https://christianheilmann.com/2023/11/06/pangram-validator-in-one-line/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
