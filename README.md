@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Rob Bateman and his journey to resurrect Flash content on today’s web](https://christianheilmann.com/2023/12/21/rob-bateman-and-his-journey-to-resurrect-flash-content-on-todays-web/)
 - [A santa themed CODE100 puzzle - Hitting the chimney](https://dev.to/codepo8/a-santa-themed-code100-puzzle-hitting-the-chimney-4ioj)
-- [A santa themed CODE100 puzzle – Hitting the chimney](https://christianheilmann.com/2023/12/19/a-santa-themed-code100-puzzle-hitting-the-chimney/)
+- [Cracking a &quot;Developer Tools Killer&quot; script…](https://dev.to/codepo8/cracking-a-developer-tools-killer-script-2lpl)
+- [Pangram validator in one line](https://dev.to/codepo8/pangram-validator-in-one-line-59e9)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
