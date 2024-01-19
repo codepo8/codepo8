@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 print chr$&lpar;205.5 + rnd&lpar;1&rpar;&rpar;;:goto 10 in JavaScript](https://christianheilmann.com/2024/01/19/10-print-chr205-5-rnd1goto-10-in-javascript/)
 - [Rob Bateman and his journey to resurrect Flash content on today’s web](https://christianheilmann.com/2023/12/21/rob-bateman-and-his-journey-to-resurrect-flash-content-on-todays-web/)
 - [A santa themed CODE100 puzzle - Hitting the chimney](https://dev.to/codepo8/a-santa-themed-code100-puzzle-hitting-the-chimney-4ioj)
-- [A santa themed CODE100 puzzle – Hitting the chimney](https://christianheilmann.com/2023/12/19/a-santa-themed-code100-puzzle-hitting-the-chimney/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
