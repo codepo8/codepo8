@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How does a changed market affect Developer Relations?](https://chrisheilmann.medium.com/how-does-a-changed-market-affect-developer-relations-533187711c17?source=rss-2902b181e2e9------2)
+- [How does a changed market affect Developer Relations?](https://christianheilmann.com/2024/02/21/how-does-a-changed-market-affect-developer-relations/)
 - [Lines of code — how to not measure code quality and developer efficiency](https://chrisheilmann.medium.com/lines-of-code-how-to-not-measure-code-quality-and-developer-efficiency-f21f97a2d43d?source=rss-2902b181e2e9------2)
-- [Lines of code – how to not measure code quality and developer efficiency](https://christianheilmann.com/2024/02/06/lines-of-code-how-to-not-measure-code-quality-and-developer-efficiency/)
-- [Using details/summary and colour coding on GitHub pages](https://christianheilmann.com/2024/01/24/using-details-summary-and-colour-coding-on-github-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
