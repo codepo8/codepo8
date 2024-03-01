@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [10 print chr$&lpar;205.5 + rnd&lpar;1&rpar;&rpar;;:goto 10 in JavaScript](https://dev.to/codepo8/10-print-chr2055-rnd1goto-10-in-javascript-323g)
-- [A santa themed CODE100 puzzle - Hitting the chimney](https://dev.to/codepo8/a-santa-themed-code100-puzzle-hitting-the-chimney-4ioj)
-- [Cracking a &quot;Developer Tools Killer&quot; script…](https://dev.to/codepo8/cracking-a-developer-tools-killer-script-2lpl)
+- [Apple vs. PWAs – Go act now and help avoid this disaster…](https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/)
+- [How does a changed market affect Developer Relations?](https://chrisheilmann.medium.com/how-does-a-changed-market-affect-developer-relations-533187711c17?source=rss-2902b181e2e9------2)
+- [How does a changed market affect Developer Relations?](https://christianheilmann.com/2024/02/21/how-does-a-changed-market-affect-developer-relations/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
