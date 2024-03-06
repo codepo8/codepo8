@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kirby apps and regressive enhancements](https://christianheilmann.com/2024/03/06/kirby-apps-and-regressive-enhancements/)
 - [Giving your app a temporary public URL with VS Code port forwarding](https://dev.to/codepo8/giving-your-app-a-temporary-public-url-with-vs-code-port-forwarding-177c)
 - [Apple vs. PWAs – Go act now and help avoid this disaster…](https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/)
-- [How does a changed market affect Developer Relations?](https://chrisheilmann.medium.com/how-does-a-changed-market-affect-developer-relations-533187711c17?source=rss-2902b181e2e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
