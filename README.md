@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Giving your app a temporary public URL with VS Code port forwarding](https://christianheilmann.com/2024/03/18/giving-your-app-a-temporary-public-url-with-vs-code-port-forwarding/)
+- [Dev Digest 107 – and the OSScar goes to…](https://christianheilmann.com/2024/03/18/dev-digest-107-and-the-osscar-goes-to/)
 - [Kirby apps and regressive enhancements](https://christianheilmann.com/2024/03/06/kirby-apps-and-regressive-enhancements/)
-- [Giving your app a temporary public URL with VS Code port forwarding](https://dev.to/codepo8/giving-your-app-a-temporary-public-url-with-vs-code-port-forwarding-177c)
-- [Apple vs. PWAs – Go act now and help avoid this disaster…](https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
