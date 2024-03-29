@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [New CODE100 challenge: #BuntStattBraun](https://christianheilmann.com/2024/03/29/new-code100-challenge-buntstattbraun/)
 - [Dev Digest 108 – Git off my cloud!](https://christianheilmann.com/2024/03/26/dev-digest-108-git-off-my-cloud/)
 - [Giving your app a temporary public URL with VS Code port forwarding](https://christianheilmann.com/2024/03/18/giving-your-app-a-temporary-public-url-with-vs-code-port-forwarding/)
-- [Dev Digest 107 – and the OSScar goes to…](https://christianheilmann.com/2024/03/18/dev-digest-107-and-the-osscar-goes-to/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
