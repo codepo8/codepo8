@@ -12,8 +12,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [About yesterday’s European Song Contest 2024](https://chrisheilmann.medium.com/about-yesterdays-european-song-contest-2024-643c5d1b23f4?source=rss-2902b181e2e9------2)
-- [About yesterday’s European Song Contest 2024](https://christianheilmann.com/2024/05/12/about-yesterdays-european-song-contest-2024/)
-- [Dev Digest Issue 115 – password beefstew is not Strog/|n0FF](https://christianheilmann.com/2024/05/12/dev-digest-issue-115-password-beefstew-is-not-strog-n0ff/)
+- [Giving your app a temporary public URL with VS Code port forwarding](https://dev.to/codepo8/giving-your-app-a-temporary-public-url-with-vs-code-port-forwarding-177c)
+- [How does a changed market affect Developer Relations?](https://chrisheilmann.medium.com/how-does-a-changed-market-affect-developer-relations-533187711c17?source=rss-2902b181e2e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
