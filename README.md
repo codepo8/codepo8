@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [About yesterday’s European Song Contest 2024](https://chrisheilmann.medium.com/about-yesterdays-european-song-contest-2024-643c5d1b23f4?source=rss-2902b181e2e9------2)
 - [About yesterday’s European Song Contest 2024](https://christianheilmann.com/2024/05/12/about-yesterdays-european-song-contest-2024/)
 - [Dev Digest Issue 115 – password beefstew is not Strog/|n0FF](https://christianheilmann.com/2024/05/12/dev-digest-issue-115-password-beefstew-is-not-strog-n0ff/)
+- [Calling all Manchester and surrounding – come to / apply for CODE100 on 22nd of May!](https://christianheilmann.com/2024/04/17/calling-all-manchester-and-surrounding-come-to-apply-for-code100-on-22nd-of-may/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
