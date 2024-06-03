@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dev Digest 118 – Not a total recall](https://christianheilmann.com/2024/06/03/dev-digest-118-not-a-total-recall/)
 - [About yesterday’s European Song Contest 2024](https://chrisheilmann.medium.com/about-yesterdays-european-song-contest-2024-643c5d1b23f4?source=rss-2902b181e2e9------2)
 - [About yesterday’s European Song Contest 2024](https://christianheilmann.com/2024/05/12/about-yesterdays-european-song-contest-2024/)
-- [Dev Digest Issue 115 – password beefstew is not Strog/|n0FF](https://christianheilmann.com/2024/05/12/dev-digest-issue-115-password-beefstew-is-not-strog-n0ff/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
