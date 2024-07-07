@@ -12,8 +12,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Code puzzle - GSM-7 or UCS-2?](https://dev.to/codepo8/code-puzzle-gsm-7-or-ucs-2-1cnh)
-- [Witnessing the death of the web as a news medium](https://chrisheilmann.medium.com/witnessing-the-death-of-the-web-as-a-news-medium-46487a6681a0?source=rss-2902b181e2e9------2)
-- [About yesterday’s European Song Contest 2024](https://chrisheilmann.medium.com/about-yesterdays-european-song-contest-2024-643c5d1b23f4?source=rss-2902b181e2e9------2)
+- [Dev Digest 122 – Cracks in the polyfill](https://christianheilmann.com/2024/07/02/dev-digest-122-cracks-in-the-polyfill/)
+- [Quick productivity tip: Renaming lots of files in MacOS Finder](https://christianheilmann.com/2024/06/24/quick-productivity-tip-renaming-lots-of-files-in-macos-finder/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
