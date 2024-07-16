@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Interaction bait is killing social media](https://christianheilmann.com/2024/07/11/interaction-bait-is-killing-social-media/)
 - [A sentence for eternity from Elon Musk Smiling Face with Sunglasses.](https://chrisheilmann.medium.com/special-character-growth-hacking-should-be-banned-3e819f3de46b?source=rss-2902b181e2e9------2)
-- [Hot take: social platforms should disallow special character growth hacking](https://christianheilmann.com/2024/07/07/hot-take-social-platforms-should-disallow-special-character-growth-hacking/)
+- [Code puzzle - GSM-7 or UCS-2?](https://dev.to/codepo8/code-puzzle-gsm-7-or-ucs-2-1cnh)
+- [Witnessing the death of the web as a news medium](https://chrisheilmann.medium.com/witnessing-the-death-of-the-web-as-a-news-medium-46487a6681a0?source=rss-2902b181e2e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
