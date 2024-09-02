@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Eine Milliarde neuer Entwickler dank KI? Linkliste](https://christianheilmann.com/2024/09/02/eine-milliarde-neuer-entwickler-dank-ki-linkliste/)
 - [How we edited 175 conference videos in 5 hours](https://dev.to/codepo8/how-we-edited-175-conference-videos-in-5-hours-8h1)
 - [Talk notes: Let’s make a simpler, more accessible web](https://christianheilmann.com/2024/08/05/talk-notes-lets-make-a-simpler-more-accessible-web/)
-- [Interaction bait is killing social media](https://christianheilmann.com/2024/07/11/interaction-bait-is-killing-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
