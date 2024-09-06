@@ -12,8 +12,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [No more &quot;Expert, Intermediate, Beginner&quot;: Classifying talks in Call for Papers/Conference agendas](https://dev.to/codepo8/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papersconference-agendas-49pc)
-- [No more “Expert, Intermediate, Beginner”: Classifying talks in Call for Papers/Conference agendas](https://christianheilmann.com/2024/09/06/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papers-conference-agendas/)
 - [The best carb.js](https://dev.to/codepo8/the-best-carbjs-3lho)
+- [How we edited 175 conference videos in 5 hours](https://dev.to/codepo8/how-we-edited-175-conference-videos-in-5-hours-8h1)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
