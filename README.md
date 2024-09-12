@@ -12,8 +12,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Quick tip: using flatMap&lpar;&rpar; to extract data from a huge set without having to write a loop](https://dev.to/codepo8/quick-tip-using-flatmap-to-extract-data-from-a-huge-set-without-any-loop-3i7p)
-- [Quick tip: using flatMap&lpar;&rpar; to extract data from a huge set without any loop](https://christianheilmann.com/2024/09/06/quick-tip-using-flatmap-to-extract-data-from-a-huge-set-without-any-loop/)
 - [No more &quot;Expert, Intermediate, Beginner&quot;: Classifying talks in Call for Papers/Conference agendas](https://dev.to/codepo8/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papersconference-agendas-49pc)
+- [The best carb.js](https://dev.to/codepo8/the-best-carbjs-3lho)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
