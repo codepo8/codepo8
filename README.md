@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Movie industry facts](https://dev.to/codepo8/movie-industry-facts-2kaj)
 - [Let’s bring back browsing](https://christianheilmann.com/2024/09/15/lets-bring-back-browsing/)
 - [A billion new developers thanks to AI?](https://chrisheilmann.medium.com/a-billion-new-developers-thanks-to-ai-5a0271d3908d?source=rss-2902b181e2e9------2)
-- [A billion new developers thanks to AI?](https://christianheilmann.com/2024/09/12/a-billion-new-developers-thanks-to-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
