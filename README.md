@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Social media platforms should make it easier to add alternative text using an [Alt: description] syntax](https://christianheilmann.com/2024/11/13/social-media-platforms-should-make-it-easier-to-add-alternative-text-using-an-alt-description-syntax/)
 - [Exif by magic – the forgotten extra information in JPEG and TIFF files](https://christianheilmann.com/2024/11/01/exif-by-magic-the-forgotten-extra-information-in-jpeg-and-tiff-files/)
 - [I just pulled a 2006 and uploaded my holiday photos to Flickr with a Creative Commons Licence](https://christianheilmann.com/2024/10/25/i-just-pulled-a-2006-and-uploaded-my-holiday-photos-to-flickr-with-a-creative-commons-licence/)
+- [Movie industry facts](https://dev.to/codepo8/movie-industry-facts-2kaj)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
