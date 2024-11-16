@@ -12,8 +12,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [httpstat.us is a great service to test your APIs and scripts](https://dev.to/codepo8/httpstatus-is-a-great-service-to-test-your-apis-and-scripts-5dbh)
-- [Social media platforms should make it easier to add alternative text using an [Alt: description] syntax](https://christianheilmann.com/2024/11/13/social-media-platforms-should-make-it-easier-to-add-alternative-text-using-an-alt-description-syntax/)
-- [Exif by magic – the forgotten extra information in JPEG and TIFF files](https://christianheilmann.com/2024/11/01/exif-by-magic-the-forgotten-extra-information-in-jpeg-and-tiff-files/)
+- [Movie industry facts](https://dev.to/codepo8/movie-industry-facts-2kaj)
+- [A billion new developers thanks to AI?](https://chrisheilmann.medium.com/a-billion-new-developers-thanks-to-ai-5a0271d3908d?source=rss-2902b181e2e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
