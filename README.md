@@ -12,8 +12,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [What’s your excuse for not using the web share API?](https://dev.to/codepo8/whats-your-excuse-for-not-using-the-web-share-api-4ckp)
+- [What’s your excuse for not using the web share API?](https://christianheilmann.com/2024/11/16/whats-your-excuse-for-not-using-the-web-share-api/)
 - [httpstat.us is a great service to test your APIs and scripts](https://dev.to/codepo8/httpstatus-is-a-great-service-to-test-your-apis-and-scripts-5dbh)
-- [Movie industry facts](https://dev.to/codepo8/movie-industry-facts-2kaj)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
