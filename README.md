@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stupid interview questions will get you limited developers – is that what the market wants?](https://christianheilmann.com/2024/12/23/stupid-interview-questions-will-get-you-limited-developers-is-that-what-the-market-wants/)
 - [A behind the scenes of how I create an edition of the WeAreDevelopers Dev Digest – 3 hours in 1 minute speedrun](https://christianheilmann.com/2024/12/04/a-behind-the-scenes-of-how-i-create-an-edition-of-the-wearedevelopers-dev-digest-3-hours-in-1-minute-speedrun/)
 - [What’s your excuse for not using the web share API?](https://dev.to/codepo8/whats-your-excuse-for-not-using-the-web-share-api-4ckp)
-- [What’s your excuse for not using the web share API?](https://christianheilmann.com/2024/11/16/whats-your-excuse-for-not-using-the-web-share-api/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
