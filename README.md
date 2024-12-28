@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [What’s your excuse for not using the web share API?](https://dev.to/codepo8/whats-your-excuse-for-not-using-the-web-share-api-4ckp)
-- [httpstat.us is a great service to test your APIs and scripts](https://dev.to/codepo8/httpstatus-is-a-great-service-to-test-your-apis-and-scripts-5dbh)
-- [Movie industry facts](https://dev.to/codepo8/movie-industry-facts-2kaj)
+- [A Twitter eulogy and the complicated relationship with my X…](https://christianheilmann.com/2024/12/26/a-twitter-eulogy-and-the-complicated-relationship-with-my-x/)
+- [Stupid interview questions will get you limited developers – is that what the market wants?](https://christianheilmann.com/2024/12/23/stupid-interview-questions-will-get-you-limited-developers-is-that-what-the-market-wants/)
+- [A behind the scenes of how I create an edition of the WeAreDevelopers Dev Digest – 3 hours in 1 minute speedrun](https://christianheilmann.com/2024/12/04/a-behind-the-scenes-of-how-i-create-an-edition-of-the-wearedevelopers-dev-digest-3-hours-in-1-minute-speedrun/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
