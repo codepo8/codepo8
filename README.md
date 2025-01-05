@@ -12,8 +12,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [trimMiddle&lpar;&rpar; - the missing String trim method](https://dev.to/codepo8/trimmiddle-the-missing-string-trim-command-1lhe)
-- [What’s your excuse for not using the web share API?](https://dev.to/codepo8/whats-your-excuse-for-not-using-the-web-share-api-4ckp)
-- [httpstat.us is a great service to test your APIs and scripts](https://dev.to/codepo8/httpstatus-is-a-great-service-to-test-your-apis-and-scripts-5dbh)
+- [trimMiddle&lpar;&rpar; – the missing String trim method](https://christianheilmann.com/2025/01/03/trimmiddle-the-missing-string-trim-command/)
+- [A Twitter eulogy and the complicated relationship with my X…](https://christianheilmann.com/2024/12/26/a-twitter-eulogy-and-the-complicated-relationship-with-my-x/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
