@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning HTML is the best investment I ever did](https://christianheilmann.com/2025/01/15/learning-html-is-the-best-investment-i-ever-did/)
 - [trimMiddle&lpar;&rpar; - the missing String trim method](https://dev.to/codepo8/trimmiddle-the-missing-string-trim-command-1lhe)
 - [trimMiddle&lpar;&rpar; – the missing String trim method](https://christianheilmann.com/2025/01/03/trimmiddle-the-missing-string-trim-command/)
-- [A Twitter eulogy and the complicated relationship with my X…](https://christianheilmann.com/2024/12/26/a-twitter-eulogy-and-the-complicated-relationship-with-my-x/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
