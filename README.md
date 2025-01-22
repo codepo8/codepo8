@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [“modern” is rubbish](https://christianheilmann.com/2025/01/21/modern-is-rubbish/)
 - [Learning HTML is the best investment I ever did](https://dev.to/codepo8/learning-html-is-the-best-investment-i-ever-did-2ekl)
-- [Learning HTML is the best investment I ever did](https://christianheilmann.com/2025/01/15/learning-html-is-the-best-investment-i-ever-did/)
+- [trimMiddle&lpar;&rpar; - the missing String trim method](https://dev.to/codepo8/trimmiddle-the-missing-string-trim-command-1lhe)
+- [What’s your excuse for not using the web share API?](https://dev.to/codepo8/whats-your-excuse-for-not-using-the-web-share-api-4ckp)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
