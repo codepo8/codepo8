@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [80 years ago](https://christianheilmann.com/2025/01/27/80-years-ago/)
 - [Quick tip: Rotating images and videos 90 degrees in MacOS Finder using CMD+R or CMD+L](https://christianheilmann.com/2025/01/24/quick-tip-rotating-images-and-videos-90-degrees-in-macos-finder-using-cmdr-or-cmdl/)
 - [WAD Live 22/01/2025 – Accessibility, JavaScript Bundlers and Git Basics](https://christianheilmann.com/2025/01/23/wad-live-22-01-2025-accessibility-javascript-bundlers-and-git-basics/)
-- [“modern” is rubbish](https://christianheilmann.com/2025/01/21/modern-is-rubbish/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
