@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to trim a video in MacOS using Finder!](https://christianheilmann.com/2025/02/20/how-to-trim-a-video-in-macos-using-finder/)
 - [Derpify.js – a tool for these trying times…](https://dev.to/codepo8/derpifyjs-a-tool-for-these-trying-times-4gmg)
-- [Learning HTML is the best investment I ever did](https://dev.to/codepo8/learning-html-is-the-best-investment-i-ever-did-2ekl)
-- [trimMiddle&lpar;&rpar; - the missing String trim method](https://dev.to/codepo8/trimmiddle-the-missing-string-trim-command-1lhe)
+- [Derpify.js is now on npm and GitHub – a tool for these trying times…](https://christianheilmann.com/2025/01/27/derpify-js-is-now-on-npm-and-github-a-tool-for-these-trying-times/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
