@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting ready for WeAreDevelopers WebDev &amp; AI Day – 27/03/2025](https://christianheilmann.com/2025/03/24/getting-ready-for-wearedevelopers-webdev-ai-day-27-03-2025/)
 - [Nobody should be a “content creator”](https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/)
 - [Building a “shoutout” component in plain HTML/CSS/JavaScript](https://christianheilmann.com/2025/02/26/building-a-shoutout-component-in-plain-html-css-javascript/)
-- [How to trim a video in MacOS using Finder!](https://christianheilmann.com/2025/02/20/how-to-trim-a-video-in-macos-using-finder/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
