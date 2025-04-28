@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Keeping it on the &lt; dl &gt; – another HTML gem you never use](https://christianheilmann.com/2025/04/18/keeping-it-on-the-dl-another-html-gem-you-never-use/)
-- [The rise of Model Fatigue – or is it just me?](https://christianheilmann.com/2025/04/16/the-rise-of-model-fatigue-or-is-it-just-me/)
-- [Getting ready for WeAreDevelopers WebDev &amp; AI Day – 27/03/2025](https://christianheilmann.com/2025/03/24/getting-ready-for-wearedevelopers-webdev-ai-day-27-03-2025/)
+- [Derpify.js – a tool for these trying times…](https://dev.to/codepo8/derpifyjs-a-tool-for-these-trying-times-4gmg)
+- [Learning HTML is the best investment I ever did](https://dev.to/codepo8/learning-html-is-the-best-investment-i-ever-did-2ekl)
+- [trimMiddle&lpar;&rpar; - the missing String trim method](https://dev.to/codepo8/trimmiddle-the-missing-string-trim-command-1lhe)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
