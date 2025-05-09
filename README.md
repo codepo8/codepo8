@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding, creativity, craft and professionalism… are we making ourselves redundant?](https://chrisheilmann.medium.com/vibe-coding-creativity-craft-and-professionalism-are-we-making-ourselves-redundant-093df8a8acdd?source=rss-2902b181e2e9------2)
 - [0x32](https://christianheilmann.com/2025/04/28/0x32/)
 - [Keeping it on the &lt; dl &gt; – another HTML gem you never use](https://christianheilmann.com/2025/04/18/keeping-it-on-the-dl-another-html-gem-you-never-use/)
+- [The rise of Model Fatigue – or is it just me?](https://christianheilmann.com/2025/04/16/the-rise-of-model-fatigue-or-is-it-just-me/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
