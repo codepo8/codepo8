@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding, creativity, craft and professionalism… are we making ourselves redundant?](https://chrisheilmann.medium.com/vibe-coding-creativity-craft-and-professionalism-are-we-making-ourselves-redundant-093df8a8acdd?source=rss-2902b181e2e9------2)
+- [Vibe coding, creativity, craft and professionalism… are we making ourselves redundant? Live on stage!](https://christianheilmann.com/2025/05/16/vibe-coding-creativity-craft-and-professionalism-are-we-making-ourselves-redundant-live-on-stage/)
 - [0x32](https://christianheilmann.com/2025/04/28/0x32/)
 - [Keeping it on the &lt; dl &gt; – another HTML gem you never use](https://christianheilmann.com/2025/04/18/keeping-it-on-the-dl-another-html-gem-you-never-use/)
 <!-- BLOG-POST-LIST:END -->
