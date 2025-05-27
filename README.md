@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Excellent tools: EditGPT – an AI powered review and edit suite for writers](https://christianheilmann.com/2025/05/26/excellent-tools-editgpt-an-ai-powered-review-and-edit-suite-for-writers/)
 - [About showing the “open to work” badge](https://christianheilmann.com/2025/05/20/nothing-makes-me-want-to-hire-someone-less-than-them-showing-an-open-to-work-badge/)
 - [Vibe coding, creativity, craft and professionalism… are we making ourselves redundant? Live on stage!](https://christianheilmann.com/2025/05/16/vibe-coding-creativity-craft-and-professionalism-are-we-making-ourselves-redundant-live-on-stage/)
-- [Vibe coding, creativity, craft and professionalism… are we making ourselves redundant?](https://chrisheilmann.medium.com/vibe-coding-creativity-craft-and-professionalism-are-we-making-ourselves-redundant-093df8a8acdd?source=rss-2902b181e2e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
