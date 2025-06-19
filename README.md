@@ -11,7 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Excellent tools: EditGPT — an AI powered review and edit suite for writers](https://chrisheilmann.medium.com/excellent-tools-editgpt-an-ai-powered-review-and-edit-suite-for-writers-9f91f2a0e3e2?source=rss-2902b181e2e9------2)
+- [TIL: Smart glasses aren’t just for pricks, they are an accessibility aid](https://christianheilmann.com/2025/06/18/til-smart-glasses-arent-just-for-pricks-they-are-an-accessibility-aid/)
 - [Excellent tools: EditGPT – an AI powered review and edit suite for writers](https://christianheilmann.com/2025/05/26/excellent-tools-editgpt-an-ai-powered-review-and-edit-suite-for-writers/)
 - [About showing the “open to work” badge](https://christianheilmann.com/2025/05/20/nothing-makes-me-want-to-hire-someone-less-than-them-showing-an-open-to-work-badge/)
 <!-- BLOG-POST-LIST:END -->
