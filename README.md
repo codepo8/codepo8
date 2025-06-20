@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Two tools to create QR codes for free and without any ad breaks](https://christianheilmann.com/2025/06/19/two-tools-to-create-qr-codes-for-free-and-without-any-ad-breaks/)
 - [TIL: Smart glasses aren’t just for pricks, they are an accessibility aid](https://christianheilmann.com/2025/06/18/til-smart-glasses-arent-just-for-pricks-they-are-an-accessibility-aid/)
-- [Excellent tools: EditGPT – an AI powered review and edit suite for writers](https://christianheilmann.com/2025/05/26/excellent-tools-editgpt-an-ai-powered-review-and-edit-suite-for-writers/)
-- [About showing the “open to work” badge](https://christianheilmann.com/2025/05/20/nothing-makes-me-want-to-hire-someone-less-than-them-showing-an-open-to-work-badge/)
+- [Excellent tools: EditGPT — an AI powered review and edit suite for writers](https://chrisheilmann.medium.com/excellent-tools-editgpt-an-ai-powered-review-and-edit-suite-for-writers-9f91f2a0e3e2?source=rss-2902b181e2e9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
