@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Presentations should always work offline – especially in online conferences](https://christianheilmann.com/2025/07/14/presentations-should-always-work-offline-especially-in-online-conferences/)
 - [Day Zero Activities of WeAreDevelopers World Congress tomorrow](https://christianheilmann.com/2025/07/08/day-zero-activities-of-wearedevelopers-world-congress-tomorrow/)
 - [Two tools to create QR codes for free and without any ad breaks](https://christianheilmann.com/2025/06/19/two-tools-to-create-qr-codes-for-free-and-without-any-ad-breaks/)
-- [TIL: Smart glasses aren’t just for pricks, they are an accessibility aid](https://christianheilmann.com/2025/06/18/til-smart-glasses-arent-just-for-pricks-they-are-an-accessibility-aid/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
