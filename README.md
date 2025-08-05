@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Presentations should always work offline – especially in online conferences](https://christianheilmann.com/2025/07/14/presentations-should-always-work-offline-especially-in-online-conferences/)
-- [Day Zero Activities of WeAreDevelopers World Congress tomorrow](https://christianheilmann.com/2025/07/08/day-zero-activities-of-wearedevelopers-world-congress-tomorrow/)
-- [Two tools to create QR codes for free and without any ad breaks](https://christianheilmann.com/2025/06/19/two-tools-to-create-qr-codes-for-free-and-without-any-ad-breaks/)
+- [Excellent tools: EditGPT — an AI powered review and edit suite for writers](https://chrisheilmann.medium.com/excellent-tools-editgpt-an-ai-powered-review-and-edit-suite-for-writers-9f91f2a0e3e2?source=rss-2902b181e2e9------2)
+- [Vibe coding, creativity, craft and professionalism… are we making ourselves redundant?](https://chrisheilmann.medium.com/vibe-coding-creativity-craft-and-professionalism-are-we-making-ourselves-redundant-093df8a8acdd?source=rss-2902b181e2e9------2)
+- [Derpify.js – a tool for these trying times…](https://dev.to/codepo8/derpifyjs-a-tool-for-these-trying-times-4gmg)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
