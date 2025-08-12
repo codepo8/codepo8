@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using GitHub Pages as a URL shortener / redirection service](https://christianheilmann.com/2025/08/11/using-github-pages-as-a-url-shortener-redirection-service/)
 - [Things not to do as a presenter if you want a great talk recording](https://christianheilmann.com/2025/08/05/things-not-to-do-as-a-presenter-if-you-want-a-great-talk-recording/)
 - [Presentations should always work offline – especially in online conferences](https://christianheilmann.com/2025/07/14/presentations-should-always-work-offline-especially-in-online-conferences/)
-- [Day Zero Activities of WeAreDevelopers World Congress tomorrow](https://christianheilmann.com/2025/07/08/day-zero-activities-of-wearedevelopers-world-congress-tomorrow/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
