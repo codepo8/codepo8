@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Using GitHub Pages as a URL shortener / redirection service](https://christianheilmann.com/2025/08/11/using-github-pages-as-a-url-shortener-redirection-service/)
-- [Things not to do as a presenter if you want a great talk recording](https://christianheilmann.com/2025/08/05/things-not-to-do-as-a-presenter-if-you-want-a-great-talk-recording/)
-- [Presentations should always work offline – especially in online conferences](https://christianheilmann.com/2025/07/14/presentations-should-always-work-offline-especially-in-online-conferences/)
+- [Excellent tools: EditGPT — an AI powered review and edit suite for writers](https://chrisheilmann.medium.com/excellent-tools-editgpt-an-ai-powered-review-and-edit-suite-for-writers-9f91f2a0e3e2?source=rss-2902b181e2e9------2)
+- [Vibe coding, creativity, craft and professionalism… are we making ourselves redundant?](https://chrisheilmann.medium.com/vibe-coding-creativity-craft-and-professionalism-are-we-making-ourselves-redundant-093df8a8acdd?source=rss-2902b181e2e9------2)
+- [Derpify.js – a tool for these trying times…](https://dev.to/codepo8/derpifyjs-a-tool-for-these-trying-times-4gmg)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
