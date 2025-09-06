@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A CSS only time progress bar to use in markdown / GitHub Pages](https://dev.to/codepo8/a-css-only-time-progress-bar-to-use-in-markdown-github-pages-465f)
+- [A CSS only time progress bar to use in markdown / GitHub Pages](https://christianheilmann.com/2025/09/05/a-css-only-time-progress-bar-to-use-in-markdown-github-pages/)
 - [Returning to the US: see you at All Things Open 2025](https://christianheilmann.com/2025/09/01/returning-to-the-us-see-you-at-all-things-open-2025/)
-- [A lesson from history for Software Engineers, Product Owners and CEOs](https://christianheilmann.com/2025/08/22/a-lesson-from-history-for-software-engineers-product-owners-and-ceos/)
-- [Using GitHub Pages as a URL shortener / redirection service](https://christianheilmann.com/2025/08/11/using-github-pages-as-a-url-shortener-redirection-service/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
