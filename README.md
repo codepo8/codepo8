@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Time to separate the art from the artist](https://christianheilmann.com/2025/09/28/time-to-separate-the-art-from-the-artist/)
 - [As I remember London](https://christianheilmann.com/2025/09/25/as-i-remember-london/)
 - [Web Development according to Grok is all about libraries…](https://christianheilmann.com/2025/09/12/web-development-according-to-grok-is-all-about-libraries/)
-- [A CSS only time progress bar to use in markdown / GitHub Pages](https://dev.to/codepo8/a-css-only-time-progress-bar-to-use-in-markdown-github-pages-465f)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
