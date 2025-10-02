@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Call for Papers is open for the WeAreDevelopers Berlin and San Jose events 2026 – here’s what we’re looking for…](https://christianheilmann.com/2025/10/01/call-for-papers-is-open-for-the-wearedevelopers-berlin-and-san-jose-events-2026-heres-what-were-looking-for/)
 - [Time to separate the art from the artist](https://chrisheilmann.medium.com/time-to-separate-the-art-from-the-artist-6d2af1d1df7e?source=rss-2902b181e2e9------2)
 - [Time to separate the art from the artist](https://christianheilmann.com/2025/09/28/time-to-separate-the-art-from-the-artist/)
-- [As I remember London](https://christianheilmann.com/2025/09/25/as-i-remember-london/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
