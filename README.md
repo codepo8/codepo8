@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building my faux lego advent calendar feels like current software development](https://christianheilmann.com/2025/12/26/building-my-faux-lego-advent-calendar-feels-like-current-software-development/)
 - [Ad Blockers helped kill the open web](https://christianheilmann.com/2025/12/17/ad-blockers-helped-kill-the-open-web/)
 - [Shuffling a CSS grid using custom properties](https://christianheilmann.com/2025/11/24/shuffling-a-css-grid-using-custom-properties/)
-- [AI is Dunning-Kruger as a service](https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
