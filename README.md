@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Abandonware of the web: did you know that there is an HTML tables API?](https://dev.to/codepo8/abandonware-of-the-web-did-you-know-that-there-is-an-html-tables-api-1efn)
-- [Time to separate the art from the artist](https://chrisheilmann.medium.com/time-to-separate-the-art-from-the-artist-6d2af1d1df7e?source=rss-2902b181e2e9------2)
-- [A CSS only time progress bar to use in markdown / GitHub Pages](https://dev.to/codepo8/a-css-only-time-progress-bar-to-use-in-markdown-github-pages-465f)
+- [Monky Business: Creating a Cistercian Numerals Generator](https://christianheilmann.com/2026/01/13/monky-business-creating-a-cistercian-numerals-generator/)
+- [You are already behind by not having read this post.](https://christianheilmann.com/2026/01/02/you-are-already-behind-by-not-having-read-this-post/)
+- [Building my faux lego advent calendar feels like current software development](https://christianheilmann.com/2025/12/26/building-my-faux-lego-advent-calendar-feels-like-current-software-development/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
