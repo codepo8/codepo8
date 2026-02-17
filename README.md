@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [WebMCP – a much needed way to make agents play with rather than against the web](https://christianheilmann.com/2026/02/16/webmcp-a-much-needed-way-to-make-agents-play-with-rather-than-against-the-web/)
 - [When being Hitler’s guard was a literal drag…](https://christianheilmann.com/2026/02/02/when-being-hitlers-guard-was-a-literal-drag/)
 - [Monky Business: Creating a Cistercian Numerals Generator](https://christianheilmann.com/2026/01/13/monky-business-creating-a-cistercian-numerals-generator/)
-- [You are already behind by not having read this post.](https://christianheilmann.com/2026/01/02/you-are-already-behind-by-not-having-read-this-post/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
