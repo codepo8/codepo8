@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick tip: hosting HTML/CSS/JS demos from source code on GitHub Pages](https://christianheilmann.com/2026/02/28/quick-tip-hosting-html-css-js-demos-from-source-code-on-github-pages/)
 - [I fell for a phishing attack and lost access to my X account. Here are five mistakes I did that you need to avoid!](https://christianheilmann.com/2026/02/22/i-fell-for-a-phishing-attack-and-lost-access-to-my-x-account-here-are-five-mistakes-i-did-that-you-need-to-avoid/)
 - [I fell for a phishing mail and lost access to Twitter/X](https://christianheilmann.com/2026/02/20/%e2%80%bc%ef%b8%8f-i-fell-for-a-phishing-mail-and-lost-access-to-twitter-x-%f0%9f%9a%a8/)
-- [WebMCP – a much needed way to make agents play with rather than against the web](https://christianheilmann.com/2026/02/16/webmcp-a-much-needed-way-to-make-agents-play-with-rather-than-against-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
