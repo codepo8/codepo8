@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Talking on the “We love open source” podcasts about the threats of AI to open source and free software.](https://christianheilmann.com/2026/03/12/talking-on-the-we-love-open-source-podcasts-about-the-threats-of-ai-to-open-source-and-free-software/)
 - [LinkedIn should punish the “comment X to get access” bait spam](https://christianheilmann.com/2026/03/02/linkedin-should-punish-the-comment-x-to-get-access-bait-spam/)
 - [Quick tip: hosting HTML/CSS/JS demos from source code on GitHub Pages](https://christianheilmann.com/2026/02/28/quick-tip-hosting-html-css-js-demos-from-source-code-on-github-pages/)
-- [I fell for a phishing attack and lost access to my X account. Here are five mistakes I did that you need to avoid!](https://christianheilmann.com/2026/02/22/i-fell-for-a-phishing-attack-and-lost-access-to-my-x-account-here-are-five-mistakes-i-did-that-you-need-to-avoid/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
