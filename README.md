@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Talking on the “We love open source” podcasts about the threats of AI to open source and free software.](https://christianheilmann.com/2026/03/12/talking-on-the-we-love-open-source-podcasts-about-the-threats-of-ai-to-open-source-and-free-software/)
-- [LinkedIn should punish the “comment X to get access” bait spam](https://christianheilmann.com/2026/03/02/linkedin-should-punish-the-comment-x-to-get-access-bait-spam/)
-- [Quick tip: hosting HTML/CSS/JS demos from source code on GitHub Pages](https://christianheilmann.com/2026/02/28/quick-tip-hosting-html-css-js-demos-from-source-code-on-github-pages/)
+- [Abandonware of the web: did you know that there is an HTML tables API?](https://dev.to/codepo8/abandonware-of-the-web-did-you-know-that-there-is-an-html-tables-api-1efn)
+- [Time to separate the art from the artist](https://chrisheilmann.medium.com/time-to-separate-the-art-from-the-artist-6d2af1d1df7e?source=rss-2902b181e2e9------2)
+- [A CSS only time progress bar to use in markdown / GitHub Pages](https://dev.to/codepo8/a-css-only-time-progress-bar-to-use-in-markdown-github-pages-465f)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
