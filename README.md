@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How do developers define their worth when code is written by AI?](https://christianheilmann.com/2026/04/21/how-do-developers-define-their-worth-when-code-is-written-by-ai/)
 - [Take the “chart explosion” coding challenge and earn your spot at CODE100 in July in Berlin](https://christianheilmann.com/2026/03/31/take-the-chart-explosion-coding-challenge-and-earn-your-spot-at-code100-in-july-in-berlin/)
 - [You are falling behind because you haven’t fed the insincerity machine in the last 5 minutes](https://christianheilmann.com/2026/03/28/you-are-falling-behind-because-you-havent-fed-the-insincerity-machine-in-the-last-5-minutes/)
-- [Talking on the “We love open source” podcasts about the threats of AI to open source and free software.](https://christianheilmann.com/2026/03/12/talking-on-the-we-love-open-source-podcasts-about-the-threats-of-ai-to-open-source-and-free-software/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
