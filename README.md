@@ -12,8 +12,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Accessibility question: is nesting interactive elements bad?](https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof)
-- [Abandonware of the web: did you know that there is an HTML tables API?](https://dev.to/codepo8/abandonware-of-the-web-did-you-know-that-there-is-an-html-tables-api-1efn)
-- [Time to separate the art from the artist](https://chrisheilmann.medium.com/time-to-separate-the-art-from-the-artist-6d2af1d1df7e?source=rss-2902b181e2e9------2)
+- [Accessibility question: is nesting interactive elements bad?](https://christianheilmann.com/2026/05/27/accessibility-question-is-nesting-interactive-elements-bad/)
+- [How do developers define their worth when code is written by AI?](https://christianheilmann.com/2026/04/21/how-do-developers-define-their-worth-when-code-is-written-by-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
