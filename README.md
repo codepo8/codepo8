@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Remember: The “f” in xenophobia stands for “fun”](https://chrisheilmann.medium.com/remember-the-f-in-xenophobia-stands-for-fun-af5f993fe21e?source=rss-2902b181e2e9------2)
+- [Remember: The “f” in xenophobia stands for “fun”](https://christianheilmann.com/2026/06/02/remember-the-f-in-xenophobia-stands-for-fun/)
 - [Accessibility question: is nesting interactive elements bad?](https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof)
-- [Accessibility question: is nesting interactive elements bad?](https://christianheilmann.com/2026/05/27/accessibility-question-is-nesting-interactive-elements-bad/)
-- [How do developers define their worth when code is written by AI?](https://christianheilmann.com/2026/04/21/how-do-developers-define-their-worth-when-code-is-written-by-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
