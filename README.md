@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Coming to San Jose for the WeAreDevelopers World Congress 23rd of September – get tickets half price now!](https://christianheilmann.com/2026/08/26/coming-to-san-jose-for-the-wearedevelopers-world-congress-23rd-of-september-get-tickets-half-price-now/)
 - [Quick Tip: Translating long documents with Microsoft Edge Immersive Reader](https://christianheilmann.com/2026/08/12/quick-tip-translating-long-documents-with-microsoft-edge-immersive-reader/)
 - [Anti-Social Media](https://christianheilmann.com/2026/08/11/anti-social-media/)
-- [A blueprint for democracy to defend itself against fascism from 1937 – more important now than ever…](https://christianheilmann.com/2026/08/04/a-blueprint-for-democracy-to-defend-itself-against-fascism-from-1937-more-important-now-than-ever/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
