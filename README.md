@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Coming to San Jose for the WeAreDevelopers World Congress 23rd of September – get tickets half price now!](https://christianheilmann.com/2026/08/26/coming-to-san-jose-for-the-wearedevelopers-world-congress-23rd-of-september-get-tickets-half-price-now/)
-- [Quick Tip: Translating long documents with Microsoft Edge Immersive Reader](https://christianheilmann.com/2026/08/12/quick-tip-translating-long-documents-with-microsoft-edge-immersive-reader/)
-- [Anti-Social Media](https://christianheilmann.com/2026/08/11/anti-social-media/)
+- [Remember: The “f” in xenophobia stands for “fun”](https://chrisheilmann.medium.com/remember-the-f-in-xenophobia-stands-for-fun-af5f993fe21e?source=rss-2902b181e2e9------2)
+- [Accessibility question: is nesting interactive elements bad?](https://dev.to/codepo8/accessibility-question-is-nesting-interactive-elements-bad-4oof)
+- [Abandonware of the web: did you know that there is an HTML tables API?](https://dev.to/codepo8/abandonware-of-the-web-did-you-know-that-there-is-an-html-tables-api-1efn)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
