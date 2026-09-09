@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Moderators wanted for WeAreDevelopers World Congress North America on the 23rd!](https://christianheilmann.com/2026/09/08/moderators-wanted-for-wearedevelopers-world-congress-north-america-on-the-23rd/)
 - [Coming to San Jose for the WeAreDevelopers World Congress 23rd of September – get tickets half price now!](https://christianheilmann.com/2026/08/26/coming-to-san-jose-for-the-wearedevelopers-world-congress-23rd-of-september-get-tickets-half-price-now/)
 - [Quick Tip: Translating long documents with Microsoft Edge Immersive Reader](https://christianheilmann.com/2026/08/12/quick-tip-translating-long-documents-with-microsoft-edge-immersive-reader/)
-- [Anti-Social Media](https://christianheilmann.com/2026/08/11/anti-social-media/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
