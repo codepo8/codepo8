@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [TLDRs newsletters are TLDR so I wrote a converter that gets all the important links](https://christianheilmann.com/2026/10/06/tldrs-newsletters-are-tldr-so-i-wrote-a-converter-that-gets-all-the-important-links/)
 - [AI needs fewer Iron Men and more Smart Hulks](https://christianheilmann.com/2026/10/04/ai-needs-fewer-iron-men-and-more-smart-hulks/)
 - [Moderators wanted for WeAreDevelopers World Congress North America on the 23rd!](https://christianheilmann.com/2026/09/08/moderators-wanted-for-wearedevelopers-world-congress-north-america-on-the-23rd/)
-- [Coming to San Jose for the WeAreDevelopers World Congress 23rd of September – get tickets half price now!](https://christianheilmann.com/2026/08/26/coming-to-san-jose-for-the-wearedevelopers-world-congress-23rd-of-september-get-tickets-half-price-now/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
