@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Pardon my dust 2 – redesigning christianheilmann.com](https://christianheilmann.com/2026/11/10/pardon-my-dust-2-redesigning-christianheilmann-com/)
+- [Avoiding the AIceberg - How blindly trusting tech hurts us all](https://christianheilmann.com/2026/11/19/avoiding-the-aiceberg/)
+- [Pardon my dust 2 – redesigning christianheilmann.com](https://christianheilmann.com/2026/11/06/pardon-my-dust-2-redesigning-christianheilmann-com/)
 - [Without-love – a creative coding challenge](https://christianheilmann.com/2026/10/28/without-love-a-creative-coding-challenge/)
-- [Pardon my dust – re-homing 21 years of blog content of christianheilmann.com](https://christianheilmann.com/2026/10/28/pardon-my-dust-re-homing-21-years-of-blog-content-of-christianheilmann-com/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepo8&layout=compact&hide=html" alt="codepo8" /></p>
